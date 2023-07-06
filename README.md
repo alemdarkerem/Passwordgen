@@ -1,2 +1,2 @@
 # Passwordgen
-Basic Password generator application
+Basic Password generator application using swiftUI
